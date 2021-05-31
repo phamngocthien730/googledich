@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(['google.py'],
-             pathex=['E:\\googleDich'],
+             pathex=['E:\\googledich'],
              binaries=[],
              datas=[],
              hiddenimports=[],
